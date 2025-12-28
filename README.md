@@ -276,7 +276,7 @@ typedef enum {
 
 ## 🔄 更新日志
 
-### v1.0.0 (2024)
+### v1.0 (20251228)
 - ✅ 完整的9大功能模块
 - ✅ 变量、数组、结构体、联合体、枚举定义
 - ✅ 变量解析和代码分析
@@ -304,7 +304,8 @@ MIT License
 | --------------- | ----------- |
 | 微信         | 扫描下方二维码     |
 
-![329df540d6b329808a67bb4fa6d0bd65](https://github.com/user-attachments/assets/2453677a-ebd2-446e-bc3b-2073656f44c7)
+<img width="570" height="596" alt="image" src="https://github.com/user-attachments/assets/3f0331cd-b804-46a3-9bce-46a4eb44535a" />
+
 
 
 
