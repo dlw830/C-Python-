@@ -310,6 +310,14 @@ MIT License
 
 
 
+
+### 程序截图
+
+<img width="2864" height="1704" alt="image" src="https://github.com/user-attachments/assets/73d75c7d-6fe7-405d-b7b3-873d382a7ac7" />
+
+
+
+
 ## 📄 许可证
 
 本项目基于 **MIT License** 开源发布。
